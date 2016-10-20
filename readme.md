@@ -1,6 +1,6 @@
 ## Bootstrap blog-home on Laravel 5.3
 
-[![Build Status](https://travis-ci.org/jeanquark/blog-home.svg?branch=test)](https://travis-ci.org/jeanquark/blog-home)
+[![Build Status](https://travis-ci.org/jeanquark/blog-home.svg?branch=master)](https://travis-ci.org/jeanquark/blog-home)
 
 Ever wanted to experiment the famous [bootstrap blog-home](http://startbootstrap.com/template-overviews/blog-home) live? This project is a fully functional blog application based on the bootstrap blog-home template and the bootstrap 3 [adminsb](http://startbootstrap.com/template-overviews/sb-admin) theme for the admin area. It is written in PHP and uses [Laravel 5.3](https://laravel.com) as a framework.
 
