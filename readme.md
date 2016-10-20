@@ -4,7 +4,7 @@
 
 Ever wanted to experiment the famous [bootstrap blog-home](http://startbootstrap.com/template-overviews/blog-home) live? This project is a fully functional blog application based on the bootstrap blog-home template and the bootstrap 3 [adminsb](http://startbootstrap.com/template-overviews/sb-admin) theme for the admin area. It is written in PHP and uses [Laravel 5.3](https://laravel.com) as a framework.
 
-![homepage](https://github.com/jeanquark/blog-home1/raw/master/public/homepage.jpg "Homepage")
+![homepage](https://github.com/jeanquark/blog-home/raw/master/public/homepage.jpg "Homepage")
 
 ## Installation
 
