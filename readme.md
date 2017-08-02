@@ -1,3 +1,5 @@
+### Caution: Click [here](https://github.com/jeanquark/bootstrap-blog) for new version (Laravel 5.4)
+
 ## Bootstrap blog-home on Laravel 5.3
 
 [![Build Status](https://travis-ci.org/jeanquark/blog-home.svg?branch=master)](https://travis-ci.org/jeanquark/blog-home)
